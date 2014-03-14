@@ -13,5 +13,6 @@ eclipseのキーバインドをemacs"風"にアレンジ。emacsのキーバイ�
 |検索           | Ctrl + S            |
 |新規作成       | Ctrl + X, Ctrl + F  |
 |切り取り       | Ctrl + Y            |
+|一行削除       | Ctrl + K            |
 
 それ以外はノーサポート。
