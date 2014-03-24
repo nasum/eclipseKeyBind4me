@@ -14,7 +14,6 @@ eclipseのキーバインドをemacs"風"にアレンジ。emacsのキーバイ�
 |新規作成       | Ctrl + X, Ctrl + F  |
 |切り取り       | Ctrl + Y            |
 |一行削除       | Ctrl + K            |
-|全て選択       | Ctrl + X H          |
 
 ## emacs準拠じゃないけどemacsに準拠したら競合しちゃったやつの新しいキーバインド
 
@@ -23,12 +22,3 @@ eclipseのキーバインドをemacs"風"にアレンジ。emacsのキーバイ�
 |やり直し       | Ctrl + Shift + \    |
 
 それ以外はノーサポート。
-
-## 動作環境
-
-WindowsとMacでインポートして動作することを確認。
-
-## 適用方法
-
-1. eclipseで設定のインポートを行う。
-2. eclipseを再開する。
