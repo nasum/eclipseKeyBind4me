@@ -14,6 +14,7 @@ eclipseのキーバインドをemacs"風"にアレンジ。emacsのキーバイ�
 |新規作成       | Ctrl + X, Ctrl + F  |
 |切り取り       | Ctrl + Y            |
 |一行削除       | Ctrl + K            |
+|全て選択       | Ctrl + X H          |
 
 ## emacs準拠じゃないけどemacsに準拠したら競合しちゃったやつの新しいキーバインド
 
